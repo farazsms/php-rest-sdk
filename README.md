@@ -1,6 +1,6 @@
-# IPPanel SMS php api SDK
+# FarazSMS php api SDK
 
-This repository contains open source PHP client for `ippanel` api. Documentation can be found at: <http://docs.ippanel.com>.
+This repository contains open source PHP client for `ippanel` api. Documentation can be found at: <https://farazsms.com/webservice/>.
 
 [![Build Status](https://travis-ci.org/ippanel/php-rest-sdk.svg?branch=master)](https://travis-ci.org/ippanel/php-rest-sdk)
 
